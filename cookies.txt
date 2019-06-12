@@ -1,0 +1,42 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.crunchyroll.com/it/videos/anime"
+#   2) curl --cookie cookies.txt "https://www.crunchyroll.com/it/videos/anime"
+#   3) aria2c --load-cookies cookies.txt "https://www.crunchyroll.com/it/videos/anime"
+#
+.crunchyroll.com	TRUE	/	FALSE	1591883761	ajs_group_id	null
+.crunchyroll.com	TRUE	/	FALSE	1581210622	__qca	P0-848239676-1547341822136
+.crunchyroll.com	TRUE	/	FALSE	1574488800	__unam	e242ae3-1691be12814-815e73b-3
+.crunchyroll.com	TRUE	/	FALSE	1567680052	__utmz	91784648.1550549646.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+.crunchyroll.com	TRUE	/	FALSE	1623419755	_ga	GA1.2.1035645251.1547341821
+.crunchyroll.com	TRUE	/	FALSE	1866310946	_privy_a	%7B%22referring_domain%22%3A%22www.crunchyroll.com%22%2C%22referring_url%22%3A%22https%3A%2F%2Fwww.crunchyroll.com%2F%22%2C%22utm_medium%22%3A%22unknown%22%2C%22utm_source%22%3Anull%2C%22search_term%22%3Anull%2C%22initial_url%22%3A%22https%3A%2F%2Fstore.crunchyroll.com%2F%22%2C%22sessions_count%22%3A1%2C%22pages_viewed%22%3A3%7D
+.crunchyroll.com	TRUE	/	FALSE	1582486934	_privy_FEEC2FFB2CEA1B1DFE974243	%7B%22uuid%22%3A%228770fdce-12b2-4a18-b0ef-c94ecea10ab1%22%2C%22cart_value%22%3A0%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22US%22%2C%22region_code%22%3A%22US_%22%2C%22postal_code%22%3A%22%22%7D
+.crunchyroll.com	TRUE	/	FALSE	1562893820	c_visitor	7555cd3b-59a3-4ae7-be76-8dab569837eb
+.crunchyroll.com	TRUE	/	FALSE	1585114925	cto_lwid	776f6c8f-27c6-4186-899a-bafe819c4f8c
+.crunchyroll.com	TRUE	/	FALSE	1578877834	E31_HAPPY_MEAL	0d61f8370cad1d412f80b84d143e1257_1
+.crunchyroll.com	TRUE	/	FALSE	1579731792	VILOS_ROLLOUT	9d5ed678fe57bcca610140957afab571_7
+www.crunchyroll.com	FALSE	/	FALSE	1717961915	ki_r	
+.crunchyroll.com	TRUE	/	FALSE	1614984052	__utma	91784648.1035645251.1547341821.1550549646.1551911980.2
+.crunchyroll.com	TRUE	/	FALSE	1568123780	_fbp	fb.1.1551547451423.1246765769
+store.crunchyroll.com	FALSE	/	FALSE	1616387950	_shopify_y	92c31a5f-7710-4a7b-8606-bddb899dff0d
+store.crunchyroll.com	FALSE	/	TRUE	2186753695	secure_customer_sig	
+.crunchyroll.com	TRUE	/	FALSE	1869336148	amplitude_id_f92f25db4ed7f1c7ee55351799d43351crunchyroll.com	eyJkZXZpY2VJZCI6ImVjZTJmMGQ1LTg4ODEtNGM4ZS1hMzBjLWJlNjQ3OWJkZTZhZFIiLCJ1c2VySWQiOiI4ODk1ODM0MCIsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTU1Mzk3NjE0ODg5OCwibGFzdEV2ZW50VGltZSI6MTU1Mzk3NjE0ODkxNywiZXZlbnRJZCI6Mzk3LCJpZGVudGlmeUlkIjo0ODMsInNlcXVlbmNlTnVtYmVyIjo4ODB9
+.crunchyroll.com	TRUE	/	FALSE	1588470849	__cfduid	d5a077cd0c2823f77e548049b93a352391556934848
+.crunchyroll.com	TRUE	/	FALSE	1591286913	__zlcmid	s3iCIb5NmvohHM
+www.crunchyroll.com	FALSE	/	FALSE	1715728019	ki_u	38273d54-9fe6-e01e-df89-bc80
+.crunchyroll.com	TRUE	/	FALSE	1591883761	ajs_anonymous_id	%226cb7892e-8316-40f6-97d2-68ca2c5e5987%22
+.crunchyroll.com	TRUE	/	FALSE	1591883761	ajs_user_id	%2292009224%22
+.crunchyroll.com	TRUE	/	FALSE	1561404629	c_d	a%3D55%26g%3DO%26p%3D0
+.crunchyroll.com	TRUE	/	FALSE	1562273690	c_market_ref	editorial_cr_carousel_news
+.crunchyroll.com	TRUE	/	FALSE	1561404629	c_userid	92009224
+.crunchyroll.com	TRUE	/	FALSE	1561404629	c_userkey	2%3Asznt0q%2BJ0hQmCbBCFIlbj45RscI%3D
+.crunchyroll.com	TRUE	/	FALSE	0	session_id	251c277a060f9d2090041f699869a9c2
+www.crunchyroll.com	FALSE	/	FALSE	1924927200	bm_last_load_status	BLOCKING
+www.crunchyroll.com	FALSE	/	FALSE	1561957199	bm_monthly_unique	true
+www.crunchyroll.com	FALSE	/	FALSE	1717448084	ki_s	194848%3A0.0.0.0.0%3B195039%3A0.0.0.0.0%3B197162%3A0.0.0.0.0%3B197465%3A3.1.0.1.2%3B197874%3A1.1.0.1.2
+www.crunchyroll.com	FALSE	/	FALSE	1717961915	ki_t	1547418648273%3B1560167303446%3B1560195515163%3B61%3B345
+.crunchyroll.com	TRUE	/	FALSE	1560434155	_gid	GA1.2.1154449524.1560347755
+.crunchyroll.com	TRUE	/	FALSE	1560347815	_gat	1
+.www.crunchyroll.com	TRUE	/	FALSE	1718027777	__adroll_fpc	6d1c166daab3b3be73e6efcfacd3f517-s2-
+.www.crunchyroll.com	TRUE	/	FALSE	1591883778	__ar_v4	ZZLIM5OJ2BB6VG2I3N4BYE%3A20190526%3A5%7C3GKIBNN7JBASTNGN7GWJBD%3A20190526%3A6%7CS3XDMOUT55F43EDQZFISDA%3A20190526%3A6%7CC4JVO6MRCRDVRL2TI2NZ2X%3A20190612%3A1
