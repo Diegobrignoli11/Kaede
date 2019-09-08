@@ -1,0 +1,34 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.crunchyroll.com/it"
+#   2) curl --cookie cookies.txt "https://www.crunchyroll.com/it"
+#   3) aria2c --load-cookies cookies.txt "https://www.crunchyroll.com/it"
+#
+www.crunchyroll.com	FALSE	/	FALSE	0	ajs_anonymous_id	%22195dc8a4-99bc-42bf-9a43-71e262a77368%22
+.crunchyroll.com	TRUE	/	FALSE	1599500709	ajs_group_id	null
+.crunchyroll.com	TRUE	/	FALSE	1598023005	__cfduid	d8d4e82428e09b6415589aac23689e4191566487005
+.crunchyroll.com	TRUE	/	FALSE	1600355809	__qca	P0-1210515085-1566487008530
+.crunchyroll.com	TRUE	/	FALSE	1575740710	_fbp	fb.1.1566487550792.1870110133
+.crunchyroll.com	TRUE	/	FALSE	1631036707	_ga	GA1.2.1246826654.1566487006
+.crunchyroll.com	TRUE	/	FALSE	1599500709	ajs_anonymous_id	%22cb0de127-22e4-42e3-b011-1d61acbe7a61%22
+.crunchyroll.com	TRUE	/	FALSE	1599500709	ajs_user_id	%2296062774%22
+.crunchyroll.com	TRUE	/	FALSE	1568859432	c_d	a%3D53%26g%3DO%26p%3D0
+.crunchyroll.com	TRUE	/	FALSE	1568859432	c_userid	96062774
+.crunchyroll.com	TRUE	/	FALSE	1568859432	c_userkey	2%3Assi3v%2FMqmYxBfcr2z3R7evQ9o4Y%3D
+.crunchyroll.com	TRUE	/	FALSE	1582039005	c_visitor	99517de0-a7dd-447b-8dc7-75e629171280
+.crunchyroll.com	TRUE	/	FALSE	1600651008	cto_lwid	9c373ff9-e5bf-4d47-b5af-100510df6a96
+.crunchyroll.com	TRUE	/	FALSE	1598023288	E31_HAPPY_MEAL	0d61f8370cad1d412f80b84d143e1257_1
+.crunchyroll.com	TRUE	/	FALSE	0	session_id	18171525c052b6c64e84b106b935312e
+.crunchyroll.com	TRUE	/	FALSE	1598023943	VILOS_DRM_ROLLOUT	9d5ed678fe57bcca610140957afab571_1
+.www.crunchyroll.com	TRUE	/	FALSE	1725644710	__adroll_fpc	4472c57900f841227a88895787c96c01-s2-1567439480298
+www.crunchyroll.com	FALSE	/	FALSE	1924927200	bm_last_load_status	BLOCKING
+www.crunchyroll.com	FALSE	/	FALSE	1569905999	bm_monthly_unique	true
+www.crunchyroll.com	FALSE	/	FALSE	1725416376	ki_r	
+www.crunchyroll.com	FALSE	/	FALSE	1725416245	ki_s	199915%3A1.0.0.0.2
+www.crunchyroll.com	FALSE	/	FALSE	1725416376	ki_t	1566487010634%3B1567649238509%3B1567649976474%3B4%3B23
+www.crunchyroll.com	FALSE	/	FALSE	1723950809	ki_u	0219a90f-3e69-b8f9-011c-c40a
+.crunchyroll.com	TRUE	/	FALSE	1568051107	_gid	GA1.2.1402437309.1567964708
+.crunchyroll.com	TRUE	/	FALSE	1567964767	_gat	1
+www.crunchyroll.com	FALSE	/	FALSE	1567964718	criteo_write_test	ChUIBBINbXlHb29nbGVSdGJJZBgBIAE
+.www.crunchyroll.com	TRUE	/	FALSE	1599500710	__ar_v4	S3XDMOUT55F43EDQZFISDA%3A20190902%3A5%7C3GKIBNN7JBASTNGN7GWJBD%3A20190902%3A5%7CZZLIM5OJ2BB6VG2I3N4BYE%3A20190902%3A5
