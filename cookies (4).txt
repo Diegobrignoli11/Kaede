@@ -1,0 +1,34 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.crunchyroll.com/it"
+#   2) curl --cookie cookies.txt "https://www.crunchyroll.com/it"
+#   3) aria2c --load-cookies cookies.txt "https://www.crunchyroll.com/it"
+#
+.crunchyroll.com	TRUE	/	FALSE	1600613419	ajs_group_id	null
+.crunchyroll.com	TRUE	/	FALSE	1598023005	__cfduid	d8d4e82428e09b6415589aac23689e4191566487005
+.crunchyroll.com	TRUE	/	FALSE	1600355809	__qca	P0-1210515085-1566487008530
+.crunchyroll.com	TRUE	/	FALSE	1576853437	_fbp	fb.1.1566487550792.1870110133
+.crunchyroll.com	TRUE	/	FALSE	1632149415	_ga	GA1.2.1246826654.1566487006
+.crunchyroll.com	TRUE	/	FALSE	1582039005	c_visitor	99517de0-a7dd-447b-8dc7-75e629171280
+.crunchyroll.com	TRUE	/	FALSE	1600651008	cto_lwid	9c373ff9-e5bf-4d47-b5af-100510df6a96
+.crunchyroll.com	TRUE	/	FALSE	1598023288	E31_HAPPY_MEAL	0d61f8370cad1d412f80b84d143e1257_1
+.crunchyroll.com	TRUE	/	FALSE	1598023943	VILOS_DRM_ROLLOUT	9d5ed678fe57bcca610140957afab571_1
+.www.crunchyroll.com	TRUE	/	FALSE	1726757436	__adroll_fpc	4472c57900f841227a88895787c96c01-s2-1567439480298
+www.crunchyroll.com	FALSE	/	FALSE	1924927200	bm_last_load_status	BLOCKING
+www.crunchyroll.com	FALSE	/	FALSE	1569905999	bm_monthly_unique	true
+www.crunchyroll.com	FALSE	/	FALSE	1726207561	ki_r	
+www.crunchyroll.com	FALSE	/	FALSE	1723950809	ki_u	0219a90f-3e69-b8f9-011c-c40a
+.crunchyroll.com	TRUE	/	FALSE	1571669173	c_market_ref	editorial_cr_takeover_dr-stone-doc
+.crunchyroll.com	TRUE	/	FALSE	1600613637	ajs_anonymous_id	%2291c61099-ded2-4ebb-90a7-05de191f9d9c%22
+.crunchyroll.com	TRUE	/	FALSE	1600613419	ajs_user_id	%2296335355%22
+.crunchyroll.com	TRUE	/	FALSE	1569651109	c_d	a%3D18%26g%3DO%26p%3D0
+.crunchyroll.com	TRUE	/	FALSE	1569651109	c_userid	96335355
+.crunchyroll.com	TRUE	/	FALSE	1569651109	c_userkey	2%3A%2FUT9IcJSKxZbSLvYSMgA7joI%2F3Q%3D
+.crunchyroll.com	TRUE	/	FALSE	1571033509	etp_rt	ddd3e98d-7e2f-4a90-b2b6-cc3158e6eae4
+.crunchyroll.com	TRUE	/	FALSE	0	session_id	1a94f9b7ce84caea2965ad2ad25bb34c
+www.crunchyroll.com	FALSE	/	FALSE	1725579640	ki_s	199915%3A2.0.0.0.2
+www.crunchyroll.com	FALSE	/	FALSE	1726207561	ki_t	1566487010634%3B1568440610191%3B1568441161148%3B8%3B42
+.crunchyroll.com	TRUE	/	FALSE	1569163815	_gid	GA1.2.2021478228.1569077416
+.www.crunchyroll.com	TRUE	/	FALSE	1600613437	__ar_v4	S3XDMOUT55F43EDQZFISDA%3A20190902%3A5%7C3GKIBNN7JBASTNGN7GWJBD%3A20190902%3A5%7CZZLIM5OJ2BB6VG2I3N4BYE%3A20190902%3A5
+www.crunchyroll.com	FALSE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6IjlqSlEiLCJ0c2wiOjE1NjkwNzc2NTksIm52IjoxLCJ1cHQiOjE1NjkwNzcxNjQsImx0IjoxNTY5MDc3NjU1fV0.
