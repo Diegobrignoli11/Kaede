@@ -1,0 +1,36 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.crunchyroll.com/it"
+#   2) curl --cookie cookies.txt "https://www.crunchyroll.com/it"
+#   3) aria2c --load-cookies cookies.txt "https://www.crunchyroll.com/it"
+#
+.crunchyroll.com	TRUE	/	FALSE	1603635374	ajs_group_id	null
+.crunchyroll.com	TRUE	/	FALSE	1573304870	c_d	p%3D1
+.crunchyroll.com	TRUE	/	FALSE	1600355809	__qca	P0-1210515085-1566487008530
+.crunchyroll.com	TRUE	/	FALSE	1582039005	c_visitor	99517de0-a7dd-447b-8dc7-75e629171280
+www.crunchyroll.com	FALSE	/	FALSE	1572152400	blockTrack	1
+.crunchyroll.com	TRUE	/	FALSE	0	session_id	c2bc5e4004494b0a7094a0db0d0e2a50
+www.crunchyroll.com	FALSE	/	FALSE	1572584399	bm_monthly_unique	true
+www.crunchyroll.com	FALSE	/	FALSE	1723950809	ki_u	0219a90f-3e69-b8f9-011c-c40a
+.crunchyroll.com	TRUE	/	FALSE	1598023288	E31_HAPPY_MEAL	0d61f8370cad1d412f80b84d143e1257_1
+.www.crunchyroll.com	TRUE	/	FALSE	1729779375	__adroll_fpc	4472c57900f841227a88895787c96c01-s2-1567439480298
+.crunchyroll.com	TRUE	/	FALSE	1573304870	c_userid	97723497
+.crunchyroll.com	TRUE	/	FALSE	1603635374	ajs_user_id	%2297723497%22
+.crunchyroll.com	TRUE	/	FALSE	1598023943	VILOS_DRM_ROLLOUT	9d5ed678fe57bcca610140957afab571_1
+www.crunchyroll.com	FALSE	/	FALSE	1572152399	bm_daily_unique	true
+www.crunchyroll.com	FALSE	/	FALSE	1728862886	ki_s	199915%3A2.0.0.0.2%3B200322%3A2.0.0.0.2%3B200473%3A1.0.0.0.1%3B200774%3A1.0.0.0.2
+.crunchyroll.com	TRUE	/	FALSE	1579875376	_fbp	fb.1.1566487550792.1870110133
+.crunchyroll.com	TRUE	/	FALSE	4725699375	c_locale	enUS
+www.crunchyroll.com	FALSE	/	FALSE	1729865774	ki_r	
+.crunchyroll.com	TRUE	/	FALSE	1598023005	__cfduid	d8d4e82428e09b6415589aac23689e4191566487005
+.crunchyroll.com	TRUE	/	FALSE	1635171373	_ga	GA1.2.1246826654.1566487006
+.crunchyroll.com	TRUE	/	FALSE	1572185773	_gid	GA1.2.831460272.1572094698
+.crunchyroll.com	TRUE	/	FALSE	1603635374	ajs_anonymous_id	%22d46cf63b-6507-4ea6-8135-2169ca29669a%22
+www.crunchyroll.com	FALSE	/	FALSE	1924927200	bm_last_load_status	NOT_BLOCKING
+.crunchyroll.com	TRUE	/	FALSE	1573688461	c_market_ref	editorial_cr_carousel_q4-19-free-lights
+.crunchyroll.com	TRUE	/	FALSE	1573304870	c_userkey	2%3ArVxTrtdj1hakxNZK%2F1SLc4AQQFw%3D
+.crunchyroll.com	TRUE	/	FALSE	1600651008	cto_lwid	9c373ff9-e5bf-4d47-b5af-100510df6a96
+.crunchyroll.com	TRUE	/	FALSE	1574687270	etp_rt	0b30e05c-04c3-4a88-baf2-bf3825e8e02d
+www.crunchyroll.com	FALSE	/	FALSE	1729865774	ki_t	1571090275476%3B1572094702195%3B1572099374427%3B4%3B38
+.www.crunchyroll.com	TRUE	/	FALSE	1603635376	__ar_v4	C4JVO6MRCRDVRL2TI2NZ2X%3A20191025%3A1%7CGMYO33CPOBDTRC4CSQJO46%3A20191025%3A3%7CZZLIM5OJ2BB6VG2I3N4BYE%3A20191013%3A17%7C3GKIBNN7JBASTNGN7GWJBD%3A20191013%3A22%7CS3XDMOUT55F43EDQZFISDA%3A20191013%3A22%7C4CJBKAVVTJF5RKHFNL36LP%3A20191025%3A1
