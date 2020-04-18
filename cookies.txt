@@ -1,0 +1,40 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.crunchyroll.com/it/videos/anime"
+#   2) curl --cookie cookies.txt "https://www.crunchyroll.com/it/videos/anime"
+#   3) aria2c --load-cookies cookies.txt "https://www.crunchyroll.com/it/videos/anime"
+#
+.crunchyroll.com	TRUE	/undefined	FALSE	0	usprivacy	1YNN
+.crunchyroll.com	TRUE	/	FALSE	1618744053	ajs_group_id	null
+.crunchyroll.com	TRUE	/	FALSE	1618564598	OptanonControl	ccc=US&amp;otvers=&amp;reg=ccpa&amp;pctm=0&amp;vers=1.4.4
+.crunchyroll.com	TRUE	/	FALSE	1618092516	VILOS_DRM_ROLLOUT	9d5ed678fe57bcca610140957afab571_1
+www.crunchyroll.com	FALSE	/	FALSE	1587247200	blockTrack	1
+www.crunchyroll.com	FALSE	/	FALSE	1744974431	ki_r	
+.crunchyroll.com	TRUE	/	FALSE	1589799565	c_market_ref	editorial_cr_top-bar_villainess
+www.crunchyroll.com	FALSE	/	TRUE	0	GED_PLAYLIST_ACTIVITY	W3sidSI6IkRDUDUiLCJ0c2wiOjE1ODcyMDc3OTUsIm52IjoxLCJ1cHQiOjE1ODcyMDc1NjUsImx0IjoxNTg3MjA3NzkzfV0.
+.crunchyroll.com	TRUE	/	FALSE	1602580596	c_visitor	cd0ba0a1-85d4-4700-a30c-73490017901d
+.crunchyroll.com	TRUE	/	FALSE	0	session_id	2e23c429033255b6606b7048f7cc2711
+.www.crunchyroll.com	TRUE	/	FALSE	1618765667	__adroll_fpc	7f5c903be2c08d131cd2d188a85d1b20-1587028628980
+.crunchyroll.com	TRUE	/	FALSE	1618744054	ajs_user_id	%229116566%22
+.www.crunchyroll.com	TRUE	/	FALSE	1618564627	OptanonAlertBoxClosed	2020-04-16T09:17:07.247Z
+.crunchyroll.com	TRUE	/	FALSE	1594984055	_fbp	fb.1.1587028618845.1742368641
+.crunchyroll.com	TRUE	/	FALSE	1589620596	__cfduid	df18a252e8376a84e444e8d5be7edaa9a1587028601
+.crunchyroll.com	TRUE	/	FALSE	1650100627	__utma	91784648.696374188.1587028612.1587028627.1587028627.1
+.crunchyroll.com	TRUE	/	FALSE	0	__utmc	91784648
+.crunchyroll.com	TRUE	/	FALSE	1602796627	__utmz	91784648.1587028627.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+.crunchyroll.com	TRUE	/	FALSE	1650280053	_ga	GA1.2.696374188.1587028612
+.crunchyroll.com	TRUE	/	FALSE	1587294453	_gid	GA1.2.1500757222.1587155282
+www.crunchyroll.com	FALSE	/	FALSE	0	ajs_anonymous_id	%2215dc5932-0745-459a-8ad9-ed30d6ad16e1%22
+.crunchyroll.com	TRUE	/	FALSE	1618744054	ajs_anonymous_id	%2215dc5932-0745-459a-8ad9-ed30d6ad16e1%22
+.crunchyroll.com	TRUE	/	FALSE	1588364898	etp_rt	18b99c2d-2c4a-4602-b9de-1e2ec22adba9
+www.crunchyroll.com	FALSE	/	FALSE	1744974431	ki_t	1587028623687%3B1587208031758%3B1587208031758%3B3%3B3
+store.crunchyroll.com	FALSE	/	FALSE	1650321937	_shopify_y	cf69d345-9e08-44d2-beb7-1d0bc11ca8f2
+store.crunchyroll.com	FALSE	/	FALSE	1588417633	cart_currency	USD
+store.crunchyroll.com	FALSE	/	FALSE	1588417633	_orig_referrer	https%3A%2F%2Fwww.crunchyroll.com%2Fit
+store.crunchyroll.com	FALSE	/	TRUE	2218360033	secure_customer_sig	
+store.crunchyroll.com	FALSE	/	FALSE	0	_shopify_country	Italy
+store.crunchyroll.com	FALSE	/	FALSE	1588417633	_landing_page	%2F%3Futm_source%3Decomm_cr%26utm_medium%3Dtakeover%26utm_campaign%3Dgeneral%26referrer%3Decomm_cr_takeover_general
+store.crunchyroll.com	FALSE	/	FALSE	1588417633	cart_sig	
+.www.crunchyroll.com	TRUE	/	FALSE	1618744053	OptanonConsent	isIABGlobal=false&amp;datestamp=Sat+Apr+18+2020+13%3A07%3A33+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&amp;version=5.9.0&amp;landingPath=NotLandingPage&amp;AwaitingReconsent=false&amp;groups=1%3A1%2Cad%3A1%2Csm%3A1%2C0_139823%3A1%2C0_139856%3A1%2C0_139852%3A1%2C0_139848%3A1%2C0_139844%3A1%2C0_139840%3A1%2C0_139869%3A1%2C0_139836%3A1%2C0_139865%3A1%2C0_139832%3A1%2C0_139861%3A1%2C0_139828%3A1%2C0_139857%3A1%2C0_139824%3A1%2C0_139853%3A1%2C0_139849%3A1%2C0_139845%3A1%2C0_139870%3A1%2C0_139841%3A1%2C0_139866%3A1%2C0_139837%3A1%2C0_139862%3A1%2C0_139833%3A1%2C0_139858%3A1%2C0_139829%3A1%2C0_139854%3A1%2C0_139825%3A1%2C0_139850%3A1%2C0_139846%3A1%2C0_139842%3A1%2C0_139871%3A1%2C0_139838%3A1%2C0_139867%3A1%2C0_139834%3A1%2C0_139863%3A1%2C0_139830%3A1%2C0_139859%3A1%2C0_139826%3A1%2C0_139855%3A1%2C0_139822%3A1%2C0_139851%3A1%2C0_139847%3A1%2C0_139843%3A1%2C0_139839%3A1%2C0_139872%3A1%2C0_139835%3A1%2C0_139868%3A1%2C0_139831%3A1%2C0_139864%3A1%2C0_139827%3A1%2C0_139860%3A1
+.www.crunchyroll.com	TRUE	/	FALSE	1618744069	__ar_v4	S3XDMOUT55F43EDQZFISDA%3A20200416%3A5%7C3GKIBNN7JBASTNGN7GWJBD%3A20200416%3A5%7CZZLIM5OJ2BB6VG2I3N4BYE%3A20200416%3A4%7CC4JVO6MRCRDVRL2TI2NZ2X%3A20200418%3A1
